@@ -5,15 +5,6 @@ Week 1: Code Pen
 https://codepen.io/jonsil/pen/VwaEjRq
 
 
-
-<p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="js,result" data-user="jonsil" data-slug-hash="VwaEjRq" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="DIGM5010 Week1">
-  <span>See the Pen <a href="https://codepen.io/jonsil/pen/VwaEjRq">
-  DIGM5010 Week1</a> by jon (<a href="https://codepen.io/jonsil">@jonsil</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
-
-
 Lit Review
 
 Wikipedia Key Terms:
