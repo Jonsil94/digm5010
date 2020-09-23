@@ -1,6 +1,10 @@
 # digm5010
 Practice Repo
 
+Week 1: Code Pen
+https://codepen.io/jonsil/pen/VwaEjRq
+
+
 Lit Review
 
 Wikipedia Key Terms:
